@@ -1,0 +1,58 @@
+-- coordinates for the extra small map.
+map.North.xsmall = 50.379354
+map.South.xsmall = 50.378424
+map.West.xsmall = -4.795154
+map.East.xsmall = -4.79258
+-- No Fly Zone screen coordinates for extra small map--
+map.wx.xsmall = 0
+map.wy.xsmall = 0
+map.zx.xsmall = 0
+map.zy.xsmall = 0
+
+
+-- coordinates for the small map.
+map.North.small = 50.379819
+map.South.small = 50.377959
+map.West.small = -4.796442
+map.East.small = -4.791292
+-- No Fly Zone screen coordinates for small map--
+map.wx.small = 0
+map.wy.small = 0
+map.zx.small = 0
+map.zy.small = 0
+
+
+-- coordinates for the medium map.
+map.North.medium = 50.38075
+map.South.medium = 50.377028
+map.West.medium = -4.799017
+map.East.medium = -4.788717
+-- No Fly Zone screen coordinates for medium map--
+map.wx.medium = 0
+map.wy.medium = 0
+map.zx.medium = 0
+map.zy.medium = 0
+
+
+-- coordinates for the large map.
+map.North.large = 50.382611
+map.South.large = 50.375167
+map.West.large = -4.804167
+map.East.large = -4.783567
+-- No Fly Zone screen coordinates for large map--
+map.wx.large = 0
+map.wy.large = 0
+map.zx.large = 0
+map.zy.large = 0
+
+
+-- coordinates for the extra large map.
+map.North.xlarge = 50.386333
+map.South.xlarge = 50.371445
+map.West.xlarge = -4.814466
+map.East.xlarge = -4.773268
+-- No Fly Zone screen coordinates for extra large map--
+map.wx.xlarge = 0
+map.wy.xlarge = 0
+map.zx.xlarge = 0
+map.zy.xlarge = 0
